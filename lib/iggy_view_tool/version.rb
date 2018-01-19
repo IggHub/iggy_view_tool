@@ -1,0 +1,3 @@
+module IggyViewTool
+  VERSION = "0.1.0"
+end
