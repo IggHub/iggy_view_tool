@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+IggyViewTool::Renderer.copyright "Igor Irianto", "All rights reserved"
+```
 
 ## Development
 
